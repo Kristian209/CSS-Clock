@@ -1,0 +1,9 @@
+body{
+  text-align: center;
+  background: url('https://newevolutiondesigns.com/images/freebies/vibrant-wallpaper-3.jpg');
+  background-size: cover;  
+}
+.clock-face{
+  border: solid 2px white;
+  border-radius: 50%
+}
