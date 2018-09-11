@@ -1,0 +1,25 @@
+{
+  "name": "css-clock",
+  "version": "1.0.0",
+  "description": "A fancy clock to practice CSS skills.",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open --hot",
+    "build": "webpack --mode production"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^3.2.0",
+    "webpack-cli": "^3.1.0",
+    "webpack-dev-server": "^3.1.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kristian209/CSS-Clock.git"
+  },
+  "author": "Kristian Estrada",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kristian209/CSS-Clock/issues"
+  },
+  "homepage": "https://github.com/Kristian209/CSS-Clock#readme"
+}
