@@ -2,7 +2,7 @@
   "name": "css-clock",
   "version": "1.0.0",
   "description": "A fancy clock to practice CSS skills.",
-  "main": "index.html ",
+  "main": "index.html",
   "scripts": {
     "start": "webpack-dev-server --mode development --open --hot",
     "build": "webpack --mode production"
